@@ -12,7 +12,8 @@ INSTALLATION
 6. Start the world.
 
 Recommended:
-- Render Distance: 21 chunks
+- Render Distance: 16 chunks
+-Simulation Render Distance 16 chunks
 - Sound: 100%
 - Brightness: Moody
 -Fov:60
