@@ -1,0 +1,168 @@
+
+HELLO ZOMBIE 2 BETA VERSION 0.2
+             
+Created by
+abdulavadnyul
+
+Thank you for playing Hello Zombie 2 BETA!
+
+Before starting the map, please read this entire instruction file.
+It contains important information about settings, gameplay, and how
+to get the best experience.
+
+
+                 BEFORE PLAYING
+
+
+Make sure you have:
+
+✔ Minecraft installed
+✔ The correct Minecraft version
+✔ Enough memory allocated to Minecraft
+✔ Commands enabled if required
+✔ All map files placed correctly
+
+You can play Hello Zombie 2 BETA on any compatible Minecraft launcher.
+
+Recommended launchers:
+
+- Official Minecraft Launcher
+- Third-party Minecraft Launchers
+- Other Java Edition compatible launchers
+
+
+              RECOMMENDED SETTINGS
+
+
+For the best experience, use these settings:
+
+--------------------------------------------------
+
+Players:
+1-5 Players
+
+Gamemode:
+Survival Mode
+
+Render Distance:
+18 Chunks Recommended
+
+Simulation Distance:
+18 Chunks Recommended
+
+Brightness:
+Moody
+
+Sound:
+Enabled
+
+Music:
+Enabled
+
+Headphones:
+HIGHLY RECOMMENDED
+
+FOV:60
+
+
+Using headphones is recommended because the map uses
+sound effects and atmosphere to create a better experience.
+
+
+                
+
+               MULTIPLAYER INFO
+
+
+Hello Zombie 2 BETA supports:
+
+1-5 Players
+
+You can play:
+
+- Singleplayer
+- With friends
+
+For multiplayer, make sure every player follows
+the same rules and uses the correct Minecraft version.
+
+
+              IMPORTANT FILES
+
+
+Before playing, make sure you read:
+
+INSTALLATION README
+
+Contains information about preparing and starting
+the map correctly.
+
+CREDITS
+
+Contains information about the creator, helpers,
+and other people involved in the project.
+
+OTHER TXT FILES
+
+Read all included text files because they may contain:
+
+- Updates
+- Extra instructions
+- Important notes
+- Credits
+- Information about the map
+
+
+               PERFORMANCE TIPS
+
+
+If the map runs slowly:
+
+Try lowering:
+
+- Performance Mods
+- Graphics Settings
+- Particles
+
+Close unnecessary programs while playing.
+
+For the best experience:
+
+Use headphones.
+Play in a dark environment.
+Keep Minecraft sounds turned on.
+
+
+                BUG REPORTS
+
+
+Hello Zombie 2 BETA is still a beta version.
+
+If you find a problem, report on ISSUES:
+
+- Minecraft version
+- Launcher used
+- Description of the bug
+- Location where it happened
+- Screenshot or video if possible
+
+Your feedback helps improve future updates.
+
+
+              THANK YOU FOR PLAYING
+
+
+Thank you for downloading and playing:
+
+HELLO ZOMBIE 2 BETA
+
+Created by:
+abdulavadnyul
+Tested by:SansYT_
+
+Explore carefully.
+Survive the danger.
+And remember...
+
+The Neighbour are waiting!
+Good luck.You will need it.
