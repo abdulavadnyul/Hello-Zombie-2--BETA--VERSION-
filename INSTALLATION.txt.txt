@@ -9,12 +9,16 @@ INSTALLATION
 .minecraft/resourcepacks
 
 5. Enable the resource pack.
+1.-Faithful
+2.-Immersive Sound
+3.-Sky
+4.-Zombie Texture Pack
+
 6. Start the world.
 
 Recommended:
-- Render Distance: 16 chunks
--Simulation Render Distance 16 chunks
-- Sound: 100%
+- Render Distance: 21 chunks
+- Sound: 100% (Use Headphones for best experience)
 - Brightness: Moody
 -Fov:60
 
