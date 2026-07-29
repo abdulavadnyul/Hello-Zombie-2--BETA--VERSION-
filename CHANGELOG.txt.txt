@@ -1,14 +1,13 @@
-# Version BETA 0.1
+# Version BETA 0.2
 
 Added:
-- Neighbor AI
-- Basement area
-- Horror events
-- Custom sounds
-- Glitch effects
+-Grave
+-Ending Commands
+-More commands
+-scoreboard Death Count
 
 Fixed:
-- Door bugs
-- Command issues
--Teleport Bugs
--AI Movement
+-Map fixing
+-Bugs Fixed
+-Zombie Movement 
+-Spawning
