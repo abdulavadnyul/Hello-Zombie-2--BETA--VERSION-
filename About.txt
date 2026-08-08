@@ -45,10 +45,10 @@ Gamemode:
 Survival Mode
 
 Render Distance:
-18 Chunks Recommended
+16 Chunks Recommended
 
 Simulation Distance:
-18 Chunks Recommended
+16 Chunks Recommended
 
 Brightness:
 Moody
@@ -62,7 +62,7 @@ Enabled
 Headphones:
 HIGHLY RECOMMENDED
 
-FOV:60
+FOV:64
 
 
 Using headphones is recommended because the map uses
