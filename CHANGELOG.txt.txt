@@ -1,13 +1,19 @@
-# Version BETA 0.2
+# Version BETA 0.3
 
 Added:
--Grave
--Ending Commands
--More commands
--scoreboard Death Count
+-Road
+-NPC Interaction
+-3 New Keys
+-2 new Challenges
+-New Commands
+-New Places
+-New Books
+-Secret Easter Egg
 
 Fixed:
--Map fixing
--Bugs Fixed
--Zombie Movement 
--Spawning
+-Grave Command
+-Bugs
+-Zombie Speed 8x-3x
+-Avatar Change
+-Map Glicthes
+-Laggs
